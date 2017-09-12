@@ -1,6 +1,7 @@
 # Example how to make SOAP requests from an OpenBus Password Validator
 
 This example assumes the usage of a SOAP service that runs at http://localhost:8080
+
 The SOAP service accepts requests using the following envelope:
 ```xml 
 <soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/"
